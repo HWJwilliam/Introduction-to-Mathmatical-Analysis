@@ -6,6 +6,13 @@ This unfinished project would give you some introduction to rigorous mathematica
 
 📖 Click this link to ✨[**see the compiled version of the book!**](https://www.overleaf.com/read/fzwbxyspfggs#25fb10)✨:
 
+### 🤓 Topics Covered
+
+* Functions, Sets, and Real Numbers
+* Differentiation
+* Integration
+* Sequences and Series
+
 ### 📦 Packages
 
 * Maths symbols, equations and notations: amsmath, amssymb, amsthm, amsfonts, mathtools, array
@@ -14,10 +21,3 @@ This unfinished project would give you some introduction to rigorous mathematica
 * Hyperlinks: hyperref
 * Graph plots: pgfplots, tikz
 * Spacing and texts: indentfirst, setspace, enumitem, fancyhdr
-
-### 🤓 Topics Covered
-
-* Functions, Sets, and Real Numbers
-* Differentiation
-* Integration
-* Sequences and Series
